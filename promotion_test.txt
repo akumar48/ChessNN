@@ -1,0 +1,8 @@
+k7/5p1p/2p1RPp1/3r4/qPQ5/P6P/KB6/8 b - - 0 1 -371 f7e6
+k7/7p/2p1pPp1/3r4/qPQ5/P6P/KB6/8 w - - 0 2 400 c4d5
+k7/7p/2p1pPp1/3Q4/qP6/P6P/KB6/8 b - - 0 2 -376 e6d5
+k7/7p/4pPp1/3p4/qP6/P6P/KB6/8 w - - 0 3 445 f6f7
+k7/5P1p/4p1p1/3p4/qP6/P6P/KB6/8 b - - 0 3 -453 a4b5
+8/k4P1p/4p1p1/3p4/qP6/P6P/KB6/8 w - - 1 4 445 f7f8q
+5Q2/k6p/4p1p1/3p4/qP6/P6P/KB6/8 b - - 0 4 -464 a4c6
+5Q2/k6p/q3p1p1/3p4/1P6/P6P/KB6/8 w - - 1 5 586 b2d4

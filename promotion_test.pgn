@@ -1,0 +1,13 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "k7/5p1p/2p1nPp1/3r4/qPQ5/P6P/KB2R3/8 w - - 0 1"]
+
+1. Rxe6 fxe6 2. Qxd5 (2. f7 Rd8) 2... cxd5 (2... exd5 3. f7 Ka7 {+2.13} 4. f8=Q
+Qa5 5. bxa5 {+M5} 5... d4 {+M4} 6. Qc8 {+M4} 6... c5 {+M3} 7. Qc7+ Ka8 8. a6 d3
+9. Qb7# {+M3}) 3. f7 Ka7 4. f8=Q Qa6 5. Qe7+ 1-0
